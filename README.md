@@ -1,2 +1,3 @@
-# codelens
-Cognitive programming tools and reasearch for the growing need of *ethical human-to-machine communication
+# A real-time inspection lens interface, for code systems.
+
+Cognitive programming tools and research for the growing need of \*ethical human-to-machine communication
